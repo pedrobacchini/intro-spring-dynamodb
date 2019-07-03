@@ -1,0 +1,1 @@
+web: java -jar target/intro-spring-dynamodb-0.0.1.jar
